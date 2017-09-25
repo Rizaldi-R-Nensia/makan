@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Ini Home Aplikasi
+                    Ini Home Aplikasi Makan
                 </div>
 
                 <div class="links">
