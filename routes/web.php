@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/pegawai', "ControllerCucu@tampil_pegawai");
+Route::get('/transaksi', "ControllerCucu@tampil_transaksi");
