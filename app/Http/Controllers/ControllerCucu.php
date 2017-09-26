@@ -6,7 +6,7 @@ class ControllerCucu extends Controller{
         return view("DaftarPegawai");
     }
 
-    public function tampil_transaksi(){
+    public function tampil_transaksi_pegawai(){
         return view("HasilTransaksi");
     }
 }
