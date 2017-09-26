@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/laporan',"LaporanController@tampil_laporan");
+Route::get('/transaksi',"TransaksiController@tampil_transaksi");
